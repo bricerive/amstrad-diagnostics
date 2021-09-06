@@ -3,3 +3,5 @@ AmstradDiag_list.txt
 *.sublime-project
 ROMDump/build
 build
+.vscode
+sjasmplus
